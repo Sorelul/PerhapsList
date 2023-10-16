@@ -1,4 +1,4 @@
-<p align="center"><a href="#" target="_blank"><img src="assetsPerhapsList.png" width="400" alt="PerhapsList Logo"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="assets/PerhapsList.png" width="400" alt="PerhapsList Logo"></a></p>
 
 # FileList App
 
